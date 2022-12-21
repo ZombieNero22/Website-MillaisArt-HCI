@@ -28,7 +28,7 @@ https://zombienero22.github.io/HCI-PROJECT2-10PERCENT/
 <br>
 <br>
 <br>
-Process:
+Progress Screenshot:
 <div align="center">  
 <br>
 <br>
