@@ -4,9 +4,9 @@
 Project # 2: Understand the Need of Colors and Animation
 <br>
 <br>
-NAME:DENZEL C. DIONIDO
+NAME: DENZEL C. DIONIDO
 <br>
-SECTION:BSIT-3F
+SECTION: BSIT-3F
 <br>
 <br>
 <br>
