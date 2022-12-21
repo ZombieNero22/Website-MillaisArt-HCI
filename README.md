@@ -1,7 +1,11 @@
 # DIONIDO_DENZEL_C_FINAL-PROJECT-2_HCI_BSIT-3F
 <br>
 <br>
-HCI - FINAL PROJECT # 2
+Project # 2: Understand the Need of Colors and Animation
+<br>
+<br>
+NAME:DENZEL C. DIONIDO
+SECTION:BSIT-3F
 <br>
 <br>
 <br>
@@ -16,14 +20,14 @@ https://www.youtube.com/watch?v=yzgUtLYzip0
 
 <br>
 <br>
-Progress
+Progress:
 Website Early Design (10 Percent)
 https://zombienero22.github.io/HCI-PROJECT2-10PERCENT/
 <br>
 <br>
 <br>
 <br>
-Process
+Process:
 <div align="center">  
 <br>
 <br>
@@ -35,3 +39,35 @@ Process
 <br>
 <br>
 </div>  
+
+<br>
+<br>
+<br>
+<br>
+
+Objectives: Choosing proper colors and animation. 
+Description: 
+Color adds dimension, or realism, to screen usability. Color draws attention because it attracts a person’s eye. If used properly, it can emphasize the logical organization of information, facilitate the discrimination of screen components, accentuate differences among elements, and make displays more interesting. If used improperly, color can be distracting and possibly visually fatiguing, impairing the system’s usability. 
+Animation is a dynamic visual statement, form, and structure evolving through movement over time. Animations are popular objects that users encounter frequently, if not all the time. They have been used for different purposes and can be found in many computing environments, especially Web pages and online advertisements
+
+Student’s task: 
+Students have to develop UI for an artist: A celebrity in some form of art like music, dance, painting, martial arts, etc (not actors). This site will be used to display his works and should portray his character. You may use Wix or Wordpress for creating the website.
+
+Guidelines: 
+While choosing colors for display, one must consider these factors:  
+1.	The human visual system  
+2.	The possible problems that the colors’ use may cause  
+3.	The viewing environment in which the display is used  
+4.	The task of the user. 
+For the animation one must keep in mind 
+1.	 Do not Distract Attention from important Information 
+2.	 Avoid messing
+3.	 Allow Appropriate Exposure Duration  
+4.	Manage the Positioning and Organization of Objects  
+5.	Adhere to Color Conventions
+6.	  Support Animation with Textual and Auditory Information .
+
+Requirements: 
+•	  Submit the link of your website for checking in gclassroom.
+•	  Deadline:  December 23, 2022, 11:59PM  
+
