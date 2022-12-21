@@ -21,6 +21,8 @@ Website Early Design (10 Percent)
 https://zombienero22.github.io/HCI-PROJECT2-10PERCENT/
 <br>
 <br>
+<br>
+<br>
 Process
 <div align="center">  
 <img style="margin: 10px" src="https://i.postimg.cc/nzFDFrFK/Screenshot-1046.png" width="400" height="250" />  
