@@ -19,9 +19,15 @@ https://www.youtube.com/watch?v=yzgUtLYzip0
 Progress
 Website Early Design (10 Percent)
 https://zombienero22.github.io/HCI-PROJECT2-10PERCENT/
-
+<br>
+<br>
+Process
 <div align="center">  
-<img style="margin: 10px" src="https://i.postimg.cc/wvYsFy43/PREVIEW-ACT-3.png" width="400" height="250" />  
-<img style="margin: 10px" src="https://i.postimg.cc/wvYsFy43/PREVIEW-ACT-3.png" width="400" height="250" />  
-<img style="margin: 10px" src="https://i.postimg.cc/wvYsFy43/PREVIEW-ACT-3.png" width="400" height="250" />  
+<img style="margin: 10px" src="https://i.postimg.cc/XVFcgBtP/Screenshot-1046.png" width="400" height="250" />  
+<img style="margin: 10px" src="https://i.postimg.cc/pXzzJg6F/Screenshot-1048.png" width="400" height="250" />  
+<img style="margin: 10px" src="https://i.postimg.cc/nh5xVPn3/Screenshot-1050.png" width="400" height="250" />  
+<img style="margin: 10px" src="https://i.postimg.cc/nh5xVPn3/Screenshot-1050.png" width="400" height="250" />  
+<img style="margin: 10px" src="https://i.postimg.cc/nh5xVPn3/Screenshot-1050.png" width="400" height="250" />  
+<br>
+<br>
 </div>  
