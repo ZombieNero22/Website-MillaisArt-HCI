@@ -4,7 +4,7 @@
 Project # 2: Understand the Need of Colors and Animation
 <br>
 <br>
-NAME: DENZEL C. DIONIDO
+NAME: NERO
 <br>
 SECTION: BSIT-3F
 <br>
