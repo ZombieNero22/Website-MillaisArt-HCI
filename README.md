@@ -1,4 +1,4 @@
-# DIONIDO_DENZEL_C_FINAL-PROJECT-2_HCI_BSIT-3F
+# art-of-john-millais
 <br>
 <br>
 Project # 2: Understand the Need of Colors and Animation
@@ -13,7 +13,7 @@ SECTION: BSIT-3F
 <br>
 
 Website URL
-https://zombienero22.github.io/DIONIDO_DENZEL_C_FINAL-PROJECT-2_HCI_BSIT-3F/
+https://zombienero22.github.io/art-of-john-millais/
 
 
 Video for Preview
@@ -22,8 +22,7 @@ https://www.youtube.com/watch?v=yzgUtLYzip0
 <br>
 <br>
 Progress:
-Website Early Design (10 Percent)
-https://zombienero22.github.io/HCI-PROJECT2-10PERCENT/
+
 <br>
 <br>
 <br>
