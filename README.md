@@ -14,15 +14,9 @@ SECTION: BSIT-3F
 
 Website URL
 https://zombienero22.github.io/art-of-john-millais/
-
-
+<br>
 Video for Preview
 https://www.youtube.com/watch?v=yzgUtLYzip0
-
-<br>
-<br>
-Progress:
-
 <br>
 <br>
 <br>
