@@ -1,73 +1,39 @@
-# art-of-john-millais
-<br>
-<br>
-Project # 2: Understand the Need of Colors and Animation
-<br>
-<br>
-NAME: NERO
-<br>
-SECTION: BSIT-3F
-<br>
-<br>
-<br>
-<br>
+# Project Overview
 
-Website URL
-https://zombienero22.github.io/art-of-john-millais/
-<br>
-Video for Preview
-https://www.youtube.com/watch?v=yzgUtLYzip0
-<br>
-<br>
-<br>
-<br>
-Progress Screenshot:
-<div align="center">  
-<br>
-<br>
-<img style="margin: 10px" src="https://i.postimg.cc/nzFDFrFK/Screenshot-1046.png" width="400" height="250" />  
-<img style="margin: 10px" src="https://i.postimg.cc/pXzzJg6F/Screenshot-1048.png" width="400" height="250" />  
-<img style="margin: 10px" src="https://i.postimg.cc/nh5xVPn3/Screenshot-1050.png" width="400" height="250" />  
-<img style="margin: 10px" src="https://i.postimg.cc/sft0XCWQ/Screenshot-1053.png" width="400" height="250" />  
-<img style="margin: 10px" src="https://i.postimg.cc/qqnwngKt/Screenshot-1054.png" width="400" height="250" />  
-<br>
-<br>
-</div>  
+**Name:** Denzel C. Dionido  
+**Section:** BSIT-3F
 
-<br>
-<br>
-<br>
-<br>
+**Website URL:** [https://zombienero22.github.io/art-of-john-millais/](https://zombienero22.github.io/art-of-john-millais/)
 
-Objectives: Choosing proper colors and animation. 
-<br>
-Description: 
-<br>
-Color adds dimension, or realism, to screen usability. Color draws attention because it attracts a person’s eye. If used properly, it can emphasize the logical organization of information, facilitate the discrimination of screen components, accentuate differences among elements, and make displays more interesting. If used improperly, color can be distracting and possibly visually fatiguing, impairing the system’s usability. 
-Animation is a dynamic visual statement, form, and structure evolving through movement over time. Animations are popular objects that users encounter frequently, if not all the time. They have been used for different purposes and can be found in many computing environments, especially Web pages and online advertisements
+---
 
-Student’s task: 
-<br>
-Students have to develop UI for an artist: A celebrity in some form of art like music, dance, painting, martial arts, etc (not actors). This site will be used to display his works and should portray his character. You may use Wix or Wordpress for creating the website.
+## Objectives
+- Choosing proper colors and animation.
 
-Guidelines: 
-<br>
-While choosing colors for display, one must consider these factors:  
-1.	The human visual system  
-2.	The possible problems that the colors’ use may cause  
-3.	The viewing environment in which the display is used  
-4.	The task of the user. 
-For the animation one must keep in mind 
-1.	 Do not Distract Attention from important Information 
-2.	 Avoid messing
-3.	 Allow Appropriate Exposure Duration  
-4.	Manage the Positioning and Organization of Objects  
-5.	Adhere to Color Conventions
-6.	  Support Animation with Textual and Auditory Information .
+## Description
+Color adds dimension and realism to screen usability. It draws attention and, when used properly, can emphasize the logical organization of information, facilitate discrimination of screen components, accentuate differences among elements, and make displays more interesting. However, improper use of color can be distracting and visually fatiguing, impairing the system’s usability.
 
-Requirements: 
-<br>
-•	  Submit the link of your website for checking in gclassroom.
-<br>
-•	  Deadline:  December 23, 2022, 11:59PM  
+Animation is a dynamic visual form, evolving through movement over time. It is a popular element in various computing environments, especially on Web pages and in online advertisements. When used effectively, animation enhances the user experience.
 
+## Student’s Task
+Develop a UI for an artist who is a celebrity in some form of art (music, dance, painting, martial arts, etc., but not actors). The website will display their works and should reflect their character. Wix or WordPress can be used to create the website.
+
+## Guidelines
+
+### Choosing Colors
+- **Human Visual System:** Understand how colors are perceived.
+- **Potential Issues:** Consider possible problems caused by color choices.
+- **Viewing Environment:** Adapt the display for different environments.
+- **User Task:** Ensure colors support the user's task.
+
+### Using Animation
+- **Avoid Distraction:** Don’t distract from important information.
+- **Simplicity:** Keep animations simple and clear.
+- **Exposure Duration:** Ensure animations have appropriate exposure duration.
+- **Positioning:** Manage the positioning and organization of animated objects.
+- **Color Conventions:** Follow standard color conventions.
+- **Support with Text:** Combine animation with textual and auditory information.
+
+## Requirements
+- **Submission:** Submit the link to your website via Google Classroom.
+- **Deadline:** December 23, 2022, 11:59 PM
