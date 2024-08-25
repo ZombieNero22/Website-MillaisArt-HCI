@@ -7,7 +7,7 @@
 
 ---
 
-## Objectives
+## Objective
 - Choosing proper colors and animation.
 
 ## Description
