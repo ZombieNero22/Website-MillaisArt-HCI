@@ -1,6 +1,6 @@
 # Project Overview
 
-**Name:** Denzel C. Dionido  
+**Name:** Nero 
 **Section:** BSIT-3F
 
 **Website URL:** [https://zombienero22.github.io/art-of-john-millais/](https://nerodcd.github.io/Website-MillaisArt-HCI/)
